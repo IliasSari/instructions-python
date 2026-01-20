@@ -1,6 +1,3 @@
-import art
-print(art.logo)
-
 def find_highest_bidder(bidding_dictionary):
     winner = ""
     highest_bid = 0
